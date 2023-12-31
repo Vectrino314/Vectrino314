@@ -5,7 +5,7 @@
 
 **`Favorite Color:`** ![#FF5733](https://via.placeholder.com/15/FF5733/000000?text=+)      **`I love Jeep trucks (I drive that one 👀)`**
 
-   **Fun Fact:** My favorite number is 3 and on the resistor color code chart is the color ![#FF5733](https://via.placeholder.com/15/FF5733/000000?text=+) 
+   **Fun Fact:** My favorite number is 3 and on the resistor color code chart it is the color ![#FF5733](https://via.placeholder.com/15/FF5733/000000?text=+) 
 
 
 <p align="center">
