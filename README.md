@@ -31,41 +31,82 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Vectrino314?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+<details>
+ <summary><h3>👨‍💻 Victors's Coding Journey</h3></summary>
+Hey there! 👋 I've been coding for about 6 years now, all self-taught. Started with HTML forms, to React and Flutter apps, now I dabble in Ruby and Rails and my current favorite is Nuxt - crazy how things evolve!
+
+
+Currently, I'm an Angular .NET Developer at Tyler Technologies, been rocking that gig for about 4.5 years. Background in Computer Engineering, so making things is my jam. Recently, I built a CNC machine and I'm getting into 3D printing - turning my place into a bit of a maker space.
+
+Got a bunch of hobby projects - some finished, some waiting for their turn, and a growing list of ones I still need to start. It's like a never-ending to-do list, you know?
+
+Anyway, coding life is a journey, and mine's a mix of code, hardware, and lots of half-done projects. Excited to see where the next bits and bytes take me! 🚀💻
+</details>
+
 ---
 
-### 🧰 Languages and Tools
+### 💻 Languages
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Nuxt" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Rails" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
+<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
+### 🧰 Tools
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Jetbrains" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+<img align="left" alt="XCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+<img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+<img align="left" alt="Webflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" />          
+<img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+          
+<br />
+
+---
 
 ### 📺 Closed Source and Agency Highlights
 
+## Agency Work 🌐
 
-#
+### [IT Solutions Website]([https://example-it-solutions.com](https://www.zacbytez.com/))
 
-### 📊 Stats
+🚀 I'm proud to showcase an IT solutions website created in collaboration with my agency, DevLodge.
 
-![Victors's GitHub stats](https://github-readme-stats.vercel.app/api?username=vectrino314&show_icons=true&theme=gruvbox)
+#### Project Overview
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Vectrino314&theme=gruvbox&border_radius=4.5) -->
+- **Client:** ZacBytez
+- **Description:** This website was designed and developed to showcase IT solutions provided by our client. It features a modern and user-friendly design, highlighting key services, and pricing information.
 
-#
+#### Technologies Used
 
-<details>
- <summary><h3>👨‍💻 Victors's Coding Journey</h3></summary>
-   TODO
+- **Design:** Webflow
+- **Hosting:** Webflow Hosting
+- **Domain:** [zacbytez.com](https://www.zacbytez.com/)
+
+#### Key Features
+
+- **Responsive Design:** Ensures optimal viewing on various devices.
+- **Interactive Elements:** Engaging user experience with animations and dynamic content.
+- **Service Showcase:** Highlights IT services offered.
+- **Pricing Section:** Quirky pricing section.
+
+#### Visit the Website
+
+Explore the live website: [IT Solutions Website](https://example-it-solutions.com)
+
+
